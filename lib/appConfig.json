@@ -1,0 +1,11 @@
+{
+    "vpc": {
+        "cidr": "10.10.0.0/16"
+    },
+    "targetGroup": {
+        "port": 8080
+    },
+    "applicationLoadBalancer": {
+        "port": 80
+    }
+}
